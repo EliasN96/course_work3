@@ -2,3 +2,4 @@
 /.idea
 /.venv/Lib
 /.venv/Scripts
+.coverage
