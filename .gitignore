@@ -3,3 +3,4 @@
 /.venv/Lib
 /.venv/Scripts
 .coverage
+__pycache__/
